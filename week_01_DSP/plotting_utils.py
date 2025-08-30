@@ -8,6 +8,7 @@ from transforms import *
 
 # TODO: find a nice colormap
 # Lovely ones: cividis gist_earth_r inferno_r nipy_spectral_r
+# Hello
 spectrogram_colormap = plt.cm.nipy_spectral_r
 
 
