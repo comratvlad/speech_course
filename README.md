@@ -4,6 +4,17 @@
 
 ## Course program
 
+- Week 1: Slides | Lecture | Seminar
+    - Lecture: Intro to Digital Signal Processing (DSP)
+    - Seminar: Implement DSP pipeline
+    - Homework (<TBD>pt): Implement mel-spectrogram transformations
+
+
+<details>
+<summary>
+Course program for spring 2025
+</summary>
+
 - Week 1: [Slides](https://docs.google.com/presentation/d/1Cte6w0t8yTJRFirde6GPxKB29VX3SrX1mhAkKYEN-n4/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/E-cGC7pH46UjWQ) | [Seminar](https://disk.yandex.ru/i/j4MsAAliJ5ri_A)
     - Lecture: Intro to Digital Signal Processing (DSP)
     - Seminar: Implement DSP pipeline
@@ -49,6 +60,7 @@
     - Lecture: Acoustic Echo Cancelation (AEC) and Beamforming
     - Homework (5pt): Basic AEC implementation
 
+</details>
 
 
 <details>
@@ -109,14 +121,14 @@ Current:
 - Daniil Volgin - ASR
 - Dzmitry Soupel - ASR
 - Stepan Kargaltsev - ASR
-- Evgeniia Elistratova - TTS
-- Roman Kail - TTS
+- Roma Kail - TTS
 - Vladimir Platonov - TTS
-- Ivan Matvienko - TTS
+- Vladimir Gogoryan - TTS
 - Ravil Khisamov - VQE
 - Anton Porfirev - AEC
 
 Previous iteration:
+- Evgeniia Elistratova - TTS lectures, seminars and homeworks
 - Andrey Malinin - Course admin, lectures, seminars, homeworks
 - Vladimir Kirichenko - lectures, seminars, homeworks
 - Segey Dukanov - lecures, seminars, homeworks
